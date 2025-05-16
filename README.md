@@ -1,2 +1,3 @@
 # bookmyshow
-this is my second repository
+This is my second repository
+Auther-Kanhaiya mishra
